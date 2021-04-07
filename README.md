@@ -27,4 +27,9 @@ The aim to the analysis is to answer the folloing three questions -
 
 ### Summary of the analysis
 1. We see a strong neighborhood effect on the prices that owners are able to charge for their listing. We also see that some months are more favorable in terms of prices for owners.
-2. Apart from neighborhoods, property types and room types also have a high significant impact on the prices. Some host characteristics like how fast do the host responds, whether they are a super host also have an impact on price charged. Some amenities are also associated with higher price, providing avenue for owners to maximize the value from their properties. 
+2. Apart from neighborhoods, property types and room types also have a high significant impact on the prices. Some host characteristics like how fast do the host responds, whether they are a super host also have an impact on price charged. Some amenities are also associated with higher price, providing avenue for owners to maximize the value from their properties.
+
+### Acknowledgements
+The data for the project has been sourced from [Kaggle](https://www.kaggle.com/airbnb/boston).
+The other callout is for the stackoverflow community, for having answers to all sort of wied questions that pops up in my head.
+Feel fre to reuse the code if needed.
